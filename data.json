@@ -3,7 +3,7 @@
   "entries": [
     {
       "date": "2026-07-06",
-      "lede": "예고된 Xbox 대규모 구조조정이 오늘 시작될 것으로 알려지며 아케인 스튜디오 폐쇄 가능성까지 거론됐고, 넷마블은 해킹 사고 이후 정보보호 투자 확대 로드맵을 내놨습니다. 파리에서는 역대 최대 상금의 e스포츠 월드컵이 개막했으며, 신작 쪽에서는 팰월드 1.0 정식 출시와 어쌔신 크리드 블랙 플래그 리싱크드 발매가 임박했고 슈퍼 단간론파 2x2는 2027년으로 연기됐습니다.",
+      "lede": "예고된 Xbox 대규모 구조조정이 오늘 시작될 것으로 알려지며 아케인 스튜디오 폐쇄 가능성까지 거론됐고, 넷마블은 해킹 사고 이후 정보보호 투자 확대 로드맵을 내놨습니다. 파리에서는 역대 최대 상금의 e스포츠 월드컵이 개막했고 니케는 여름 업데이트로 매출 1위를 탈환했으며, 신작 쪽에서는 팰월드 1.0과 어쌔신 크리드 블랙 플래그 리싱크드 발매가 임박했고 스플래툰 레이더스 체험판이 매장에 등장했습니다.",
       "industry": [
         {
           "title": "Xbox layoff plans reportedly include closing Arkane, canceling Blade",
@@ -16,6 +16,12 @@
           "url": "https://www.tweaktown.com/news/112407/xbox-may-close-5-studios-in-july-layoffs-including-arkane-compulsion-ninja-theory-and-more/index.html",
           "blurb": "아케인, 컴펄션 게임즈, 더블 파인, 닌자 테오리, 언데드 랩스 등 최대 5개 스튜디오가 폐쇄 또는 매각 대상으로 검토되고 있다는 보도가 나왔습니다. 마이크로소프트나 해당 스튜디오의 공식 확인은 아직 없습니다.",
           "source": "TweakTown"
+        },
+        {
+          "title": "엑스박스, 5개 스튜디오 폐쇄 검토...게임업계 \"인재 줄이면 비전 잃는다\"",
+          "url": "https://zdnet.co.kr/view/?no=20260701092413",
+          "blurb": "마이크로소프트 회계연도 종료(6월 30일) 이후 순차적으로 실행될 것으로 전망되던 엑스박스 구조조정이 임박하면서, 업계에서는 과도한 스튜디오 인수 이후의 인재 유출이 장기적으로 콘텐츠 경쟁력을 해칠 것이라는 우려가 나오고 있습니다.",
+          "source": "ZDNet Korea"
         },
         {
           "title": "해킹 사고 그 후···넷마블, '예측형 보안 로드맵' 짠다",
@@ -34,6 +40,12 @@
           "url": "https://www.goodkyung.com/news/articleView.html?idxno=288389",
           "blurb": "e스포츠 월드컵(EWC) 2026이 7월 6일부터 8월 23일까지 프랑스 파리에서 처음으로 해외 개최되며, 100여 개국 2천여 명의 선수와 200여 개 클럽이 24개 종목에서 e스포츠 사상 최대인 7,500만 달러 상금을 두고 경쟁합니다.",
           "source": "굿모닝경제"
+        },
+        {
+          "title": "'승리의 여신: 니케', 여름 업데이트로 한국 앱스토어 매출 1위 탈환",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318103",
+          "blurb": "시프트업의 '승리의 여신: 니케'가 7월 2일 시작한 여름 업데이트로 한국 앱스토어 매출 1위를 탈환했고 일본·대만에서도 2위를 기록했습니다. 수영복 콘셉트 신규 캐릭터와 풀보이스 스토리 이벤트 'WAVE TO YOU' 등이 반영됐습니다.",
+          "source": "인벤"
         },
         {
           "title": "스마일게이트, 북미 최대 규모 서브컬처 페스티벌 애니메 엑스포 참가",
@@ -78,6 +90,18 @@
           "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
           "blurb": "유비소프트의 '어쌔신 크리드 블랙 플래그: 리싱크드'가 7월 9일 PS5·PC·엑스박스로 출시됩니다. 최신 앤빌 엔진으로 완전히 재구축됐으며, 신규 스토리 콘텐츠와 포토 모드 등이 추가된 싱글플레이 전용작입니다.",
           "source": "Ubisoft"
+        },
+        {
+          "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America)",
+          "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
+          "blurb": "닌텐도 스위치2 독점 신작 '스플래툰 레이더스'의 체험판이 북미 베스트바이·월마트·타겟·게임스탑 매장 키오스크에 등장했습니다. 3개 스테이지와 다양한 무기를 미리 체험할 수 있으며, 정식 출시는 7월 23일입니다.",
+          "source": "Nintendo Life"
+        },
+        {
+          "title": "아웃워드 2 출시 연기",
+          "url": "https://bbs.ruliweb.com/family/1476/board/300007/read/2349491",
+          "blurb": "나인 도츠 스튜디오의 오픈월드 생존 액션 RPG '아웃워드 2'가 7월 7일로 예정됐던 얼리 액세스 출시를 연기한다고 발표했습니다. 정확한 신규 출시일은 아직 공지되지 않았습니다.",
+          "source": "루리웹"
         },
         {
           "title": "7월에 출시되는 PC·모바일 게임 목록",
