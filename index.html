@@ -537,7 +537,7 @@
 
       var todayKey = today.getFullYear() + '-' + pad2(today.getMonth() + 1) + '-' + pad2(today.getDate());
 
-      var cells = WEEKDAYS.map(function (w) { return '<div class="cal-weekday">' + w + '</div>'; }).join('');
+      var cells = WEEKDAYS.map(function (w) { return '<div class="cal-weekday">' + w + '</div>'; });
 
       for (var i = 0; i < 42; i++) {
         var d = new Date(gridStart.getFullYear(), gridStart.getMonth(), gridStart.getDate() + i);
