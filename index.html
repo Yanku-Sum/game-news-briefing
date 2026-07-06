@@ -93,6 +93,12 @@
   }
   .day-select:hover, .day-select:focus-visible { border-color: var(--accent); outline: none; }
 
+  .news-toolbar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+
   .tabs {
     display: flex;
     gap: 22px;
@@ -360,7 +366,6 @@
     <h1 class="masthead-title"><span class="glyph">◆</span>게임 업계 뉴스 브리핑</h1>
     <div class="masthead-meta mono">
       <span>DISPATCHES <strong id="stat-count">0</strong></span>
-      <select id="day-select" class="day-select mono" aria-label="날짜 선택"></select>
     </div>
   </div>
   <nav class="tabs" role="tablist">
@@ -371,6 +376,9 @@
 
 <main>
   <section id="view-news" class="view">
+    <div class="news-toolbar">
+      <select id="day-select" class="day-select mono" aria-label="날짜 선택"></select>
+    </div>
     <div class="timeline" id="timeline"></div>
     <div class="empty-state" id="empty-state" hidden>아직 수집된 브리핑이 없습니다.</div>
   </section>
