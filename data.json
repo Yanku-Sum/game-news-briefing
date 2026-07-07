@@ -49,9 +49,122 @@
       "type": "정식출시",
       "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
       "source": "Gematsu"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "붕괴: 넥서스 아니마 (에볼루션 테스트)",
+      "type": "CBT",
+      "url": "https://www.sportskeeda.com/esports/honkai-nexus-anima-evolution-test-new-cbt-release-date-apply-system-requirements",
+      "source": "Sportskeeda"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Star Wars Zero Company",
+      "type": "정식출시",
+      "url": "https://www.rpgfan.com/2026/07/04/star-wars-zero-company-on-august-27th/",
+      "source": "RPGFan"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Resonance: A Plague Tale Legacy",
+      "type": "정식출시",
+      "url": "https://www.allkeyshop.com/blog/resonance-plague-tale-legacy-goes-gold-august-2026-news-r/",
+      "source": "AllKeyShop"
     }
   ],
   "entries": [
+    {
+      "date": "2026-07-07",
+      "lede": "마이크로소프트가 엑스박스 역사상 최대 규모인 3,200명 해고와 4개 스튜디오 매각을 공식 발표하며 업계에 충격을 안겼고, 위메이드 창업자 박관호 의장은 지분 전량을 9,200억 원에 중국 네오펄스에 매각하며 회사를 완전히 떠났습니다. 카카오게임즈는 공동대표 체제 출범 후 '오딘Q: 발키리스콜'을 앞세운 하반기 신작 드라이브에 나섰고, 신작 쪽에서는 '진격의 거인 3' 트레일러 공개와 '스타워즈: 제로 컴퍼니'·'레조넌스: 어 플레이그 테일 레거시'의 8월 27일 동시 출시 확정 소식이 눈길을 끕니다.",
+      "industry": [
+        {
+          "title": "Xbox Will Lay Off 3,200, Part Ways With Four Studios In 'Most Significant Restructure In Xbox History'",
+          "url": "https://kotaku.com/xbox-layoff-3200-most-significant-restructure-history-2000712836",
+          "blurb": "마이크로소프트가 엑스박스 부문 인력의 약 20%에 해당하는 3,200명을 해고한다고 공식 발표했습니다. 우선 1,600명이 즉시 감원되고 나머지 1,600명은 향후 1년에 걸쳐 순차적으로 진행되며, 컴펄션 게임즈·더블 파인·닌자 테오리·언데드 랩스 등 4개 스튜디오는 독립 또는 새 주인을 맞게 됩니다.",
+          "source": "Kotaku"
+        },
+        {
+          "title": "The Elder Scrolls Online Team Seemingly Gutted By Xbox Layoffs",
+          "url": "https://kotaku.com/elder-scrolls-online-team-seemingly-halved-xbox-layoffs-2000712920",
+          "blurb": "이번 구조조정 여파로 베데스다의 '엘더스크롤 온라인' 개발팀 인력이 절반 가까이 줄어든 것으로 알려졌습니다. 장수 라이브 서비스 게임의 향후 콘텐츠 업데이트 속도에 대한 우려가 제기되고 있습니다.",
+          "source": "Kotaku"
+        },
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "blurb": "엑스박스가 공식 블로그를 통해 구조조정 배경을 설명하며, 향후 '마인크래프트'와 '엘더스크롤' 등 핵심 IP에 투자를 집중하고 관리 계층을 최대 5단계, 가능하면 3단계까지 줄이겠다고 밝혔습니다.",
+          "source": "Xbox Wire"
+        },
+        {
+          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+          "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "blurb": "이번 엑스박스 구조조정은 마이크로소프트 커머셜 세일즈 부문 감원과 맞물려 전체 약 5,000명 규모로 집계됐습니다. 액티비전, 베데스다, 블리자드, 킹, 모장 등 거의 모든 게임 사업부가 영향을 받았습니다.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "박관호, 위메이드 지분 전량 9200억에 매각…지분 전량 中 네오펄스에",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317983",
+          "blurb": "위메이드 창업자 박관호 의장이 보유 지분 39.33%(1,335만여 주) 전량을 알리바바 등 중국 자본과 연계된 투자 플랫폼 네오펄스에 9,200억 원에 매각하는 계약을 체결했습니다. 지분 이전은 10월 30일 완료되며, 국내 게임업계에서 보기 드문 창업자의 완전한 엑싯 사례로 평가됩니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "공동대표 체제 갖춘 '카카오게임즈', 오딘Q 포함 하반기 신작 드라이브",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318021",
+          "blurb": "새 공동대표 체제를 출범한 카카오게임즈가 라이온하트 스튜디오의 신작 MMORPG '오딘Q: 발키리스콜' 등 하반기 신작 3종으로 반등을 노립니다. 북유럽 신화를 재해석한 세계관과 협동 중심 전투가 특징이며, 아시아 주요 언어를 지원하는 글로벌 서비스도 예고됐습니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "배틀그라운드 모바일, 세계적인 레이싱 팀 스쿠데리아 페라리 HP와 파트너십 공개",
+          "url": "https://www.krafton.com/news/press/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%A0%88%EC%9D%B4%EC%8B%B1-%ED%8C%80-%EC%8A%A4%EC%BF%A0%EB%8D%B0%EB%A6%AC/",
+          "blurb": "크래프톤의 '배틀그라운드 모바일'이 스쿠데리아 페라리 HP와의 첫 협업을 공식 발표했습니다. 페라리 및 팀을 테마로 한 인게임 콘텐츠가 2026년 중 순차 공개될 예정입니다.",
+          "source": "KRAFTON"
+        }
+      ],
+      "games": [
+        {
+          "title": "Attack on Titan 3 launches this winter, first gameplay",
+          "url": "https://www.gematsu.com/2026/07/attack-on-titan-3-launches-this-winter-first-gameplay",
+          "blurb": "코에이 테크모와 오메가 포스가 '진격의 거인 3'을 올겨울 PS5·엑스박스 시리즈·스위치2·PC로 출시한다고 발표했습니다. 신규 트레일러와 함께 입체기동장치 전투 시스템 개선, 9개의 거인과의 신규 전투 등이 공개됐습니다.",
+          "source": "Gematsu"
+        },
+        {
+          "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2026",
+          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2026",
+          "blurb": "7월 스위치2에는 '디지몬 스토리: 타임 스트레인저'(10일), '모스: 더 포가튼 렐릭'(16일), '스플래툰 레이더스'·'파이널 판타지 10/10-2 HD 리마스터'(23일), '제노블레이드 크로니클스2 스위치2 에디션'(30일) 등이 줄줄이 출시됩니다. 8월에는 '엘더스크롤4: 오블리비언 리마스터드'의 스위치2 이식도 예정돼 있습니다.",
+          "source": "Nintendo Life"
+        },
+        {
+          "title": "크래프톤, 게임스컴 2026 출격...신규 IP·퍼블리싱작 포함 5종 공개",
+          "url": "https://www.krafton.com/news/press/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EA%B2%8C%EC%9E%84%EC%8A%A4%EC%BB%B4-2026%EC%84%9C-5%EA%B0%9C-%EC%8B%A0%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B2%AB-%EA%B3%B5%EA%B0%9C/",
+          "blurb": "크래프톤이 오는 8월 게임스컴 2026에서 신규 자체 IP와 퍼블리싱 타이틀을 포함한 5종의 신작 라인업을 처음으로 공개한다고 밝혔습니다. 구체적인 타이틀명과 장르는 현장에서 순차 공개될 예정입니다.",
+          "source": "KRAFTON"
+        },
+        {
+          "title": "Honkai Nexus Anima Evolution Test (New CBT): Release date, how to apply, and system requirements",
+          "url": "https://www.sportskeeda.com/esports/honkai-nexus-anima-evolution-test-new-cbt-release-date-apply-system-requirements",
+          "blurb": "호요버스의 신작 '붕괴: 넥서스 아니마'가 7월 9일부터 PC·iOS·안드로이드 전 플랫폼에서 신규 CBT '에볼루션 테스트'를 진행합니다. 사전 설문에 응답해야 참가할 수 있으며, 신비로운 생명체와의 교감을 소재로 한 전략 배틀이 핵심입니다.",
+          "source": "Sportskeeda"
+        },
+        {
+          "title": "오딘Q 발키리스콜 베일 벗었다… 카카오게임즈, 티저 사이트 및 키비주얼 최초 공개",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305496",
+          "blurb": "카카오게임즈가 라이온하트 스튜디오 신작 '오딘Q: 발키리스콜'의 정식 타이틀과 키비주얼을 담은 티저 사이트를 처음 공개했습니다. 북유럽 신화 '에다'를 재해석한 세계관을 바탕으로 다양한 종족·직업과 협동 전투를 앞세울 예정입니다.",
+          "source": "경향게임스"
+        },
+        {
+          "title": "Star Wars Zero Company Brings Strategy, Separatists, & A Solo Skywalker on August 27th",
+          "url": "https://www.rpgfan.com/2026/07/04/star-wars-zero-company-on-august-27th/",
+          "blurb": "EA와 리스폰 엔터테인먼트가 클론전쟁을 배경으로 한 턴제 전략 신작 '스타워즈: 제로 컴퍼니'를 8월 27일 PS5·PC·엑스박스로 출시한다고 확정했습니다. 오합지졸 용병 부대 '제로 컴퍼니'를 이끌고 은하계의 새로운 위협에 맞서는 내용입니다.",
+          "source": "RPGFan"
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy Goes Gold for August 2026 Release",
+          "url": "https://www.allkeyshop.com/blog/resonance-plague-tale-legacy-goes-gold-august-2026-news-r/",
+          "blurb": "아소보 스튜디오의 '레조넌스: 어 플레이그 테일 레거시'가 개발을 마치고 골드 상태에 돌입해 8월 27일 PC·PS5·엑스박스 발매가 확정됐습니다. '어 플레이그 테일: 레퀴엠'의 프리퀄로, 중세와 미노스 시대를 오가는 듀얼 타임라인 구조가 특징입니다.",
+          "source": "AllKeyShop"
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "lede": "예고된 Xbox 대규모 구조조정이 오늘 시작될 것으로 알려지며 아케인 스튜디오 폐쇄 가능성까지 거론됐고, 넷마블은 해킹 사고 이후 정보보호 투자 확대 로드맵을 내놨습니다. 파리에서는 역대 최대 상금의 e스포츠 월드컵이 개막했고 니케는 여름 업데이트로 매출 1위를 탈환했으며, 신작 쪽에서는 팰월드 1.0과 어쌔신 크리드 블랙 플래그 리싱크드 발매가 임박했고 스플래툰 레이더스 체험판이 매장에 등장했습니다.",
