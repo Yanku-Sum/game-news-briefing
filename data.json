@@ -70,9 +70,130 @@
       "type": "정식출시",
       "url": "https://www.allkeyshop.com/blog/resonance-plague-tale-legacy-goes-gold-august-2026-news-r/",
       "source": "AllKeyShop"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "로스트아크 신규 클래스 '차원술사'",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/en/view.php?gid=1776780",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "붕괴: 스타레일 4.4 업데이트",
+      "type": "업데이트",
+      "url": "https://www.betanews.net/article/view/beta202607060008",
+      "source": "베타뉴스"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "프로야구 스피리츠 2026",
+      "type": "정식출시",
+      "url": "https://bbs.ruliweb.com/news/read/223514",
+      "source": "루리웹"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "프로스트 킹덤",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318194",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "파이널 판타지 10/10-2 HD 리마스터 (스위치2)",
+      "type": "정식출시",
+      "url": "https://www.betanews.net/article/view/beta202607060019",
+      "source": "베타뉴스"
     }
   ],
   "entries": [
+    {
+      "date": "2026-07-08",
+      "lede": "엑스박스 신임 CEO 아샤 샤르마가 대규모 구조조정의 책임을 전임 필 스펜서의 확장 전략으로 돌리며 '킹'과 '모장'을 직속 보고 체계로 편입했고, 나이언틱 게임사업부는 인수 1년 만에 '스코플리 익스플로어'로 개명했습니다. 국내에서는 엔씨의 '저니 오브 모나크'가 서비스 종료를 예고했고 차이나조이 2026 티켓 예매가 시작되는 등 여름 성수기 업계 움직임이 분주한 가운데, 신작 쪽에서는 로스트아크 신규 클래스 '차원술사'가 출시됐고 '프로야구 스피리츠 2026'·'파이널 판타지 10/10-2 HD 리마스터' 스위치2판이 각각 7월 16일, 23일 출시를 확정했습니다.",
+      "industry": [
+        {
+          "title": "Xbox CEO Asha Sharma points the finger at Phil Spencer's strategy for yesterday's sweeping layoffs: 'We simply spread ourselves too thin'",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-ceo-asha-sharma-points-the-finger-at-phil-spencers-strategy-for-yesterdays-sweeping-layoffs-we-simply-spread-ourselves-too-thin/",
+          "blurb": "엑스박스 신임 CEO 아샤 샤르마가 대규모 구조조정의 원인으로 전임 필 스펜서 시절의 무리한 확장 전략을 지목하며 '우리는 스스로를 너무 얇게 퍼뜨렸다'고 밝혔습니다. 3,200명 감원과 4개 스튜디오 매각을 정당화하는 발언으로 해석됩니다.",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "How Microsoft's new Xbox chief is resetting one of the company's most iconic brands",
+          "url": "https://fortune.com/2026/07/07/xbox-ceo-asha-sharma-reset-layoffs-microsoft-gaming/",
+          "blurb": "포춘이 엑스박스 신임 수장 아샤 샤르마의 '리셋' 전략을 조명하며, 콘솔 사업 수익성 회복과 조직 슬림화가 최우선 과제로 제시됐다고 보도했습니다. 관리 계층을 최대 3~5단계로 줄이는 개편도 함께 추진됩니다.",
+          "source": "Fortune"
+        },
+        {
+          "title": "King and Mojang to report directly to Xbox CEO Asha Sharma after company \"reset\"",
+          "url": "https://www.pocketgamer.biz/king-and-mojang-to-report-directly-to-xbox-ceo-asha-sharma-after-company-reset/",
+          "blurb": "구조조정 이후 캔디크러시 개발사 '킹'과 마인크래프트 개발사 '모장'이 아샤 샤르마 엑스박스 CEO에게 직접 보고하는 체계로 개편됩니다. 핵심 IP에 대한 의사결정 속도를 높이려는 조치로 풀이됩니다.",
+          "source": "PocketGamer.biz"
+        },
+        {
+          "title": "니안틱 게임사업부, 인수 1년 만에 '스코플리 익스플로어'로 개명",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306136",
+          "blurb": "스코플리가 지난해 35억 달러에 인수한 나이언틱 게임 사업부의 명칭을 '스코플리 익스플로어'로 변경한다고 발표했습니다. 포켓몬 GO 개발 조직에는 변화가 없다는 입장입니다.",
+          "source": "경향게임스"
+        },
+        {
+          "title": "'저니 오브 모나크'의 여정, 1년 8개월 만에 종료",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318195",
+          "blurb": "엔씨소프트의 방치형 RPG '저니 오브 모나크'가 8월 12일 서비스를 종료합니다. 7월 8일 정기점검 이후 유료 상품 판매가 중단되며, 2024년 12월 정식 출시 이후 1년 8개월 만의 종료입니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "7월 31일 개막 '차이나조이 2026', 천 개 이상의 게임 시연 예고",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318037",
+          "blurb": "7월 31일부터 상하이에서 열리는 차이나조이 2026의 티켓 예매가 7월 8일 슈퍼얼리버드 판매를 시작으로 단계적으로 개시됩니다. 천 개 이상의 게임이 현장에서 시연될 예정입니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "게임업계 여름 성수기 잡아라, 업데이트 훈풍 타고 상승세",
+          "url": "https://www.betanews.net/article/view/beta202607070003",
+          "blurb": "국내 주요 게임사들이 여름 성수기를 맞아 대규모 콘텐츠 업데이트와 이벤트를 쏟아내며 매출 반등을 노리고 있습니다. 로스트아크, 니케 등 라이브 서비스작들이 업데이트 경쟁에 나섰습니다.",
+          "source": "베타뉴스"
+        }
+      ],
+      "games": [
+        {
+          "title": "로스트아크, 7월 8일 신규 직업 '차원술사' 출시한다",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1776780",
+          "blurb": "스마일게이트의 '로스트아크'가 7월 8일 신규 클래스 '차원술사'를 출시했습니다. 시공간을 다루는 남요즈 클래스로, 전방향 딜러 '시간 관리자'와 백어택 딜러 '공간 검사' 특성으로 나뉩니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "넥써쓰, '프로스트 킹덤' 7월 23일 글로벌 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318194",
+          "blurb": "넥써쓰가 단독 퍼블리싱하는 첫 타이틀 '프로스트 킹덤'을 7월 23일 iOS·안드로이드·PC로 글로벌 출시합니다. 중세 배경의 전략 시뮬레이션에 건물·병력 합성 성장 방식을 결합했습니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "프로야구 스피리츠 2026 7월 16일 전 세계 출시",
+          "url": "https://bbs.ruliweb.com/news/read/223514",
+          "blurb": "코나미의 '프로야구 스피리츠 2026'이 7월 16일 PS5·스팀으로 전 세계 동시 출시되며, 시리즈 최초로 한국어를 지원합니다. 17년 만에 부활한 '2026 월드 베이스볼 클래식' 모드도 포함됩니다.",
+          "source": "루리웹"
+        },
+        {
+          "title": "반다이남코, '파이널 판타지 X/X-2 HD 리마스터' 스위치2 한국어판 예약판매 시작",
+          "url": "https://www.betanews.net/article/view/beta202607060019",
+          "blurb": "반다이남코엔터테인먼트코리아가 7월 8일부터 스위치2용 '파이널 판타지 X/X-2 HD 리마스터' 한국어판 패키지 예약판매를 시작했습니다. 정식 발매는 7월 23일이며, 초회 생산 한정 특전이 제공됩니다.",
+          "source": "베타뉴스"
+        },
+        {
+          "title": "붕괴: 스타레일, 4.4 버전 '적막이 깃든 순간, 울리는 경적' 7월 15일 업데이트",
+          "url": "https://www.betanews.net/article/view/beta202607060008",
+          "blurb": "호요버스의 '붕괴: 스타레일'이 7월 15일 신규 버전 4.4를 업데이트하며 화염 속성 5성 캐릭터 '히메코 노바'가 합류합니다. 페이트/스테이 나이트 콜라보 2탄도 7월 24일부터 이어질 예정입니다.",
+          "source": "베타뉴스"
+        },
+        {
+          "title": "넷마블 신작 '샹그릴라 프론티어: 일곱 최강종', 특별 방송서 정보 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318199",
+          "blurb": "넷마블이 신작 '샹그릴라 프론티어: 일곱 최강종'의 특별 방송을 통해 세계관과 핵심 시스템 정보를 공개했습니다. 원작 애니메이션 팬층을 겨냥한 수집형 RPG로 개발 중입니다.",
+          "source": "인벤"
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "lede": "마이크로소프트가 엑스박스 역사상 최대 규모인 3,200명 해고와 4개 스튜디오 매각을 공식 발표하며 업계에 충격을 안겼고, 위메이드 창업자 박관호 의장은 지분 전량을 9,200억 원에 중국 네오펄스에 매각하며 회사를 완전히 떠났습니다. 카카오게임즈는 공동대표 체제 출범 후 '오딘Q: 발키리스콜'을 앞세운 하반기 신작 드라이브에 나섰고, 신작 쪽에서는 '진격의 거인 3' 트레일러 공개와 '스타워즈: 제로 컴퍼니'·'레조넌스: 어 플레이그 테일 레거시'의 8월 27일 동시 출시 확정 소식이 눈길을 끕니다.",
